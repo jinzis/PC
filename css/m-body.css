@@ -1,0 +1,420 @@
+.module{
+    width: 1220px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+.module .head{
+    padding-bottom: 20px;
+    padding-top: 25px;
+    line-height: 25px;
+}
+.module .head .left{
+    display: inline;
+}
+.module .head .left .title{
+    vertical-align: middle;
+    color: #000;
+    font-size: 20px;
+    font-family: "微软雅黑";
+    margin-right: 15px;
+}
+.module .head .left .line{
+    margin-right: 10px;
+    height: 8px;
+    color: #ccc;
+}
+.module .head .left .more a{
+    vertical-align: middle;
+    color: #3373CC;
+}
+.module .head .left .more a:hover{
+    text-decoration: underline;
+}
+.module .head .right{
+    display: inline;
+}
+.module .head .right .mui-slider-controller{
+    display: inline;
+    float: right;
+    margin-top: 4px;
+}
+.module .head .right .mui-slider-controller .slider-right{
+    left: 100%;
+}
+.module .head .right .mui-slider-controller .slider-page{
+    position: relative;
+    display: inline;
+    float: left;
+    line-height: 6px;
+}
+.module .side{
+width: 1220px;
+position: relative;
+}
+.module .side .control-left,.module .side .control-right{
+    display: none;
+    position: absolute;
+    z-index: 1;
+    width: 30px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 5px;
+    background: #333;
+    text-align: center;
+    opacity: 0.3;
+}
+.module .side .control-left{
+    left:-15px;
+}
+.module .side .control-right{
+    right:-15px;
+}
+.module .side .control-left i,.module .side .control-right i{
+    display: block;
+    position: absolute;
+    z-index: 2;
+    top:50%;
+    left: 50%;
+    margin: -10px 0 0 -6px;
+    width: 13px;
+    height: 21px;
+    opacity: 0.6;
+    filter: alpha(opacity=0.6);
+    background: url("../images/jE3izRb2.png") no-repeat;
+}
+.module .side .control-right i{
+    background: url("../images/Jqm9O4XG.png") no-repeat;
+}
+.module .side .control-left em,.module .control-right em{
+    position: absolute;
+    border-radius: 5px;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100px;
+    opacity: 0.3;
+    filter: alpha(opacity=0.3);
+    background: black;
+}
+.module .side .control-right:hover i {opacity: 1;}
+.module .side .control-left:hover i {opacity: 1;}
+.side:hover .control-left{
+display: block;
+}
+.side:hover .control-right{
+display: block;
+}
+/*start歌单精选*/
+.menu-wrapper{
+    height: 498px;
+}
+
+.menu-wrapper-i .box .control-left,.menu-wrapper-i .box .control-right{
+    top:131px;
+}
+.menu-wrapper-i .box .wrapper{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 372px;
+}
+.menu-wrapper-i .box .wrapper .inner{
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 5000px;
+}
+.menu-wrapper-i .box .wrapper .inner .menu{
+    width: 1232px;
+    overflow: hidden;
+    float: left;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container{
+    float: left;
+    margin-right: 16px;
+    padding: 0 14px;
+    width: 130px;
+    border: 1px solid #f2f2f2;
+    position: relative;
+    background: #fff;
+    height: 370px;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container div.title{
+    line-height: 22px;
+    margin: 10px 0;
+    clear: both;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container div.title .name{
+    overflow: hidden;
+    width: 130px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container div.title a{
+    font-weight: bold;
+    color: #333;
+    border: none;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .title .name span{
+    font-size: 14px;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .img{
+    clear: both;
+    position: relative;
+    height: 130px;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .img .image{
+    padding: 0;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .img .image img{
+    display: block;
+    height: 130px;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .img .play{
+    background: url("../images/5NM2LFDO.png") no-repeat;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    background-position: -1104px 0;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .img .play:hover{
+    background-position: -672px 0;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .song-name{
+    padding: 10px 0;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .song-name li{
+    padding: 5px 0;
+    line-height: 24px;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .song-name .middle{
+    border-bottom: 1px dashed #f2f2f2;
+    border-top: 1px dashed #f2f2f2;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .song-name .song a{
+font-size: 14px;
+    color: #333;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .song-name .singer a{
+    font-size: 12px;
+    color: #999;
+}
+.menu-wrapper-i .box .wrapper .inner .menu .container .song-name a:hover{
+    text-decoration: underline;
+}
+/*start影视歌曲*/
+.film-music{
+    height: 274px;
+    border-bottom: 1px solid #e6e6e6;
+    border-top: 1px solid #e6e6e6;
+    background: #f8f8f8;
+}
+.film-music .film-container .head .left{
+    vertical-align: middle;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 微软雅黑;
+    margin-right: 15px;
+}
+.film-scroll-wrap{
+   width: 1220px;
+    position: relative;
+}
+.film-scroll-wrap .control-left,.film-scroll-wrap .control-right{
+    top:38px;
+    z-index:1;
+}
+.film-scroll-wrap .container{
+    padding-right: 10px;
+    margin-right: -10px;
+    position: relative;
+    overflow: hidden;
+    zoom: 1;
+    width: 100%;
+    height: 174px;
+}
+.film-scroll-wrap .container .inner{
+    width: 8000px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.film-scroll-wrap .container .inner .scroll-wrap{
+    width: 1252px;
+    float: left;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box{
+    float: left;
+    width: 280px;
+    margin-right: 33px;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .images{
+    margin-right: 10px;
+    width: 130px;
+    float: left;
+    position: relative;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .images img{
+    display: block;
+    width: 130px;
+    height: 170px;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .images .play-link{
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background: url("../images/5NM2LFDO.png") no-repeat;
+    background-position: -1104px 0;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    cursor: pointer;
+    overflow: hidden;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .images .play-link:hover{
+    background-position: -672px 0;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .word .title{
+    width: 140px;
+    float: left;
+    overflow: hidden;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .word .title-link{
+    font-size: 14px;
+    font-weight:bold;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .word a{
+    color: #333;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box a:hover{
+    text-decoration: underline;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .word .song-list li{
+    font-size: 12px;
+    line-height: 30px;
+    height: 30px;
+    overflow: hidden;
+    color: #999;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .word .song-list li span a{
+    width: 20px;
+    height: 20px;
+    background:url("../images/5NM2LFDO.png") no-repeat;
+    background-position: -924px -36px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -2px 0 0 -5px;
+}
+.film-scroll-wrap .container .inner .scroll-wrap .box .word .song-list li span a:hover{
+    background-position: -708px -36px;
+}
+/*end影视歌曲*/
+/*startMV*/
+.MV-music{
+    height: 400px;
+}
+.MV-container .MV-scroll-wrap .control-left,.MV-container .MV-scroll-wrap .control-right{
+    top:104px;
+}
+.MV-scroll-wrap .container{
+    padding-right: 10px;
+    margin-right: -10px;
+    margin-top: -20px;
+    position: relative;
+    overflow: hidden;
+    zoom: 1;
+    width: 1230px;
+    height: 345px;
+}
+.MV-scroll-wrap .container .inner{
+    width: 8000px;
+    position: absolute;
+    left: 0;
+    top: 20px;
+}
+.MV-scroll-wrap .container .inner .mv-list{
+    display: inline-block;
+    width: 1280px;
+    float: left;
+    margin-bottom: 25px;
+    margin-right: -37px;
+}
+.MV-scroll-wrap .container .inner .mv-list .box{
+    width: 168px;
+    margin-right: 42px;
+    height: 150px;
+    margin-bottom: 10px;
+    position: relative;
+    float: left;
+    }
+.MV-scroll-wrap .container .inner .mv-list .box .images{
+   width: 100%;
+    position: relative;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .images .mv-hot-icon{
+    z-index: 1;
+    position: absolute;
+    top: -8px;
+    right: -7px;
+    width: 40px;
+    height: 40px;
+    background:url("../images/Ueu7b9fn.png") no-repeat;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .images .mv-new-icon{
+    z-index: 1;
+    position: absolute;
+    top: -8px;
+    right: -7px;
+    width: 40px;
+    height: 40px;
+    background:url("../images/VgaUeBm0.png") no-repeat;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .images .link img{
+    width: 160px;
+    height: 90px;
+    display: block;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    padding: 3px;
+    border: 1px solid #ccc;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .images .play{
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background: url("../images/5NM2LFDO.png") no-repeat;
+    background-position: -1104px 0;
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    cursor: pointer;
+    overflow: hidden;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .images .play:hover{
+    background-position: -672px 0;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .word .song{
+    margin-left: 10px;
+    line-height: 35px;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .word .song a{
+    font-size: 14px;
+    color: #333;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .word .singer{
+    margin-left: 10px;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .word .singer a{
+    font-size: 12px;
+    color: #999;
+}
+.MV-scroll-wrap .container .inner .mv-list .box .word a:hover{
+    text-decoration: underline;
+}
+/*endMV*/

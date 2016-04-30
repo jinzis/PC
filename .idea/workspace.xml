@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2502fe71-dbee-41f9-a66f-8f321a795a5c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/.idea/项目（百度音乐）.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/HTML/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/HTML/lianxi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/css/head.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/css/m-body.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/css/t-body.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/024f78f0f736afc33c10a62fb419ebc4b745125f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/0f000ZtEOih_ca7FKBdlK0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/1438778456e19a5adc4d4_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/1453313056ec168b7ea66_370x280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/14586743567234354c310_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/1469131856a34a9b8e55a_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/1802745156f6255e76334_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/1825486456ceaea404b36_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/19433988561fb5253ce13_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2099588356934ec113c71_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/21080842565cf6e9091f4_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2110641856d325900a4a1_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2318057056a9aa8de37f3_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/23253001569cb2ea86308_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2325899256fb7e860ef29_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2414817756ed16c285b60_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2434140556fe0d5041df6_370x280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262059487.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262096719.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262380262.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262400346.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262769795.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262801729.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262801747.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262877737.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262878299.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262912944.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262912949.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/262940780.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263073890.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263074264.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263284826.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263482288.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263503451.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263528340.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263545697.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263706803.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263718044.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263721915.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263728495.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263785964.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263795777.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263806759.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263816554.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263839580.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263864336.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263891635.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263916914.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263917662.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263946501.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/263962777.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/264062918.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/264145304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/2934349b033b5bb5c201514031d3d539b700bcbd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/30adcbef76094b366dda83a7a4cc7cd98d109d34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/32fa828ba61ea8d39b1404b8900a304e251f5853.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/342ac65c1038534355c91f6b9413b07eca808872.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/34fae6cd7b899e51bae826a345a7d933c8950d26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/359b033b5bb5c9eaf5ac473ed339b6003bf3b394.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/37d3d539b6003af3ccfdb6dd322ac65c1138b6cc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/38dbb6fd5266d016dbe4af94902bd40734fa3588.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/4610b912c8fcc3ce5f6fd4d19445d688d53f20a0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/503d269759ee3d6d83e8e57644166d224f4ade65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/503d269759ee3d6da646887644166d224e4ade8f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/5243fbf2b21193137323510f62380cd791238d29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/5366d0160924ab18e2f9b78832fae6cd7a890ba5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/53ba3868Nea2f6c42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/549a6a8bN8ade7738.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/54d5fee1Nf2ba4baf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/5508ea89N694a167c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/55e736d12f2eb9383ea698bad2628535e4dd6fab.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/55e736d12f2eb9386bffc352d2628535e4dd6f84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/55e736d12f2eb93879fed5b7d2628535e4dd6fe0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/55f0e80aN532efcae.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/56093772Nedb559e8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/560b99c0Na7fb8442.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/562e041aNd9a24ceb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/563308aaN6198f580.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/56792605N671b359e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/56ea1249Naf3a52e9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/56f601d8N1329dcff.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/5882b2b7d0a20cf47379e36871094b36adaf999f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/58ee3d6d55fbb2fb44aa45a5484a20a44723dc87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/5NM2LFDO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/64380cd7912397dd947182b35e82b2b7d0a28778.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/728da9773912b31b1425a69d8118367adab4e13d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/72f082025aafa40fa859fc9cac64034f79f019d7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/77094b36acaf2edd77a5e0498a1001e93901933e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/78310a55b319ebc4468a47228526cffc1f17169e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/7a899e510fb30f24f455f3b4cf95d143ac4b03bd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/7af40ad162d9f2d3e8797152aeec8a136327cc27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/7c1ed21b0ef41bd5883074be56da81cb39db3d1c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/7dd98d1001e93901480bb4827cec54e736d19604.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/7mqo8tiZ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/810a19d8bc3eb135cc3f2a04a11ea8d3fc1f4491.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/8718367adab44aed8617eb59b41c8701a18bfb36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/9213b07eca806538db2c1c0193dda144ac3482da.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/960a304e251f95cac8263f08ce177f3e660952b8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/962bd40735fae6cdf80dc7dc08b30f2443a70fd5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/9a504fc2d562853567b8197497ef76c6a7ef630f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/9d82d158ccbf6c81e45d2653bb3eb13533fa4026.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/Android.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/EO1m3iPX.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/IOS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/Jqm9O4XG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/N1dv8f9K.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/QRHover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/Ueu7b9fn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/VgaUeBm0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/a08b87d6277f9e2fc69a67b31830e924b999f3da.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/a50f4bfbfbedab6415f1afacf036afc378311ede.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/a686c9177f3e6709343cc94d3cc79f3df8dc5540.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/a8014c086e061d9501bb0c717cf40ad163d9cafd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/aa18972bd40735faf620b0f399510fb30e2408a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/ac6eddc451da81cbb997e4705566d0160924311d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/aeAqv8Bn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/anjing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b17eca8065380cd7c59a99a4a644ad34588281f6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b21bb051f819861867f762f949ed2e738bd4e61f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b21bb051f8198618ea28f3334ded2e738bd4e61e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b21c8701a18b87d6973cc0a2000828381f30fd15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b21c8701a18b87d6e29bd7a1000828381e30fdb7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b3fb43166d224f4a6c05a0060ef790529822d103.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b64543a98226cffc0ab16f00be014a90f703eaed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/b999a9014c086e06aa596bf405087bf40bd1cb98.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/baidu_logo_24_056405eb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/bd-logo5-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/bd-logo5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/bd_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/bf096b63f6246b601b56adc3ecf81a4c510fa228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/c75c10385343fbf2c22b7f82b77eca8065388f08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/cdbf6c81800a19d82b29bf4c34fa828ba61e4654.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/cdbf6c81800a19d88bcedfbb34fa828ba71e46ba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/cefc1e178a82b90176703692748da9773812efb6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/cefc1e178a82b90181afc788748da9773912ef0f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/d000baa1cd11728bf619b747cffcc3cec3fd2c9a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/d009b3de9c82d1585da6780d830a19d8bc3e4261.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/d043ad4bd11373f01f491021a30f4bfbfbed041d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/d043ad4bd11373f0f16f2eb2a30f4bfbfbed044e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/d058ccbf6c81800a25e4d4b1b63533fa828b470f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/d439b6003af33a87242abca5c15c10385243b5ce.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/d50735fae6cd7b89696ce931082442a7d9330e04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/dbb44aed2e738bd44f808978a68b87d6267ff9d2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/diannaoban.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/e61190ef76c6a7efc814e21bfafaaf51f3de66d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/e850352ac65c10388b0379a7b5119313b07e8952.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/e9PtX7Ui.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/eac4b74543a98226010634908d82b9014b90eb46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/f2BgiPih.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/f3d3572c11dfa9ec478036a865d0f703908fc1e7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/film-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/film-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/film-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/film-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/fm-tip-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/fm-tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/gongzuo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/icon-fm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/icon-mbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/input_icons_24_915272c4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/jE3izRb2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/kanhai8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/ktv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/live8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/logoSsmall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/lun8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mobile_1232539256fb777a2a50f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mobile_1547788056f92f6b02776.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mobile_16600123566e66792af71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mobile_2284212656fce207ae55a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mobile_2383051556d69d982b9cb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mv1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mv2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mv3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mv4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mv5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/mv6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/oGmkChx7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/pass_login1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/pass_login2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/qingsong.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/rBEhWVM5Wq4IAAAAAAFsYJ8nMPUAAK_CQHOZCkAAWx4080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/rBEhWlHeTnkIAAAAAADRn2qgf3wAAA8lwHgwCcAANG3856.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/rF9AAN1o.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/remen1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/remen2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/remen3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/remen4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/shangwang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/shuhuan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/smsSwitchPhone_296e835b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/suibian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/ub2plyNv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/user_default_pic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/yundong.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/images/zaijia.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/js/lunbotu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/项目（百度音乐）/utils/animate.js" afterPath="" />
+    </list>
+    <ignored path="项目（百度音乐）.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="项目（百度音乐）" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/1.css" />
+        <option value="$PROJECT_DIR$/css/1.css" />
+        <option value="$PROJECT_DIR$/js/lunbotu.js" />
+        <option value="$PROJECT_DIR$/css/login.css" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$PROJECT_DIR$/css/head.css" />
+        <option value="$PROJECT_DIR$/utils/DOM.js" />
+        <option value="$PROJECT_DIR$/js/myscroll.js" />
+        <option value="$PROJECT_DIR$/utils/Drag.js" />
+        <option value="$PROJECT_DIR$/utils/event1.js" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/HTML/lianxi.html" />
+        <option value="$PROJECT_DIR$/HTML/2.html" />
+        <option value="$PROJECT_DIR$/HTML/3.html" />
+        <option value="$PROJECT_DIR$/js/myScroll-s.js" />
+        <option value="$PROJECT_DIR$/css/m-body1.css" />
+        <option value="$PROJECT_DIR$/css/t-body1.css" />
+        <option value="$PROJECT_DIR$/css/m-body.css" />
+        <option value="E:/jinxinphone/index.html" />
+        <option value="E:/jinxinphone/index1.css" />
+        <option value="$PROJECT_DIR$/css/t-body.css" />
+        <option value="$PROJECT_DIR$/HTML/1.html" />
+        <option value="$PROJECT_DIR$/js/index1.js" />
+        <option value="$PROJECT_DIR$/css/bottom-body.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jinxin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jinxin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jinxin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jinxin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jinxin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="E:/jinxinphone" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.4.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webstorm\项目（百度音乐）\images\files" />
+      <recent name="E:\webstorm\项目（百度音乐）\HTML" />
+      <recent name="E:\webstorm\项目（百度音乐）\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webstorm\项目（百度音乐）\css" />
+      <recent name="E:\webstorm\项目（百度音乐）\HTML" />
+      <recent name="E:\webstorm\项目（百度音乐）\js" />
+      <recent name="E:\webstorm\项目（百度音乐）" />
+      <recent name="E:\webstorm\项目（百度音乐）\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2502fe71-dbee-41f9-a66f-8f321a795a5c" name="Default" comment="" />
+      <created>1459686522650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1459686522650</updated>
+      <workItem from="1459686524615" duration="18609000" />
+      <workItem from="1459742260201" duration="17302000" />
+      <workItem from="1459825260723" duration="606000" />
+      <workItem from="1459857670603" duration="16917000" />
+      <workItem from="1459915279989" duration="7618000" />
+      <workItem from="1459939738152" duration="14422000" />
+      <workItem from="1459994048793" duration="19000" />
+      <workItem from="1460000060766" duration="3293000" />
+      <workItem from="1460007370492" duration="3892000" />
+      <workItem from="1460033332168" duration="15987000" />
+      <workItem from="1460085922377" duration="28807000" />
+      <workItem from="1460167886226" duration="36000" />
+      <workItem from="1460294963113" duration="13424000" />
+      <workItem from="1460350783986" duration="424000" />
+      <workItem from="1460384087396" duration="6232000" />
+      <workItem from="1460430938304" duration="5915000" />
+      <workItem from="1460473102036" duration="1444000" />
+      <workItem from="1460519000835" duration="16845000" />
+      <workItem from="1460643281317" duration="1201000" />
+      <workItem from="1460692860458" duration="27297000" />
+      <workItem from="1460772464139" duration="40000" />
+      <workItem from="1460902039603" duration="12208000" />
+      <workItem from="1460944414192" duration="20645000" />
+      <workItem from="1461046275585" duration="2081000" />
+      <workItem from="1461243044145" duration="12206000" />
+      <workItem from="1461290315386" duration="15873000" />
+      <workItem from="1461323979543" duration="389000" />
+      <workItem from="1461737861998" duration="4825000" />
+      <workItem from="1461759094460" duration="14245000" />
+      <workItem from="1461825884575" duration="4662000" />
+      <workItem from="1461849325107" duration="1488000" />
+      <workItem from="1461850952882" duration="10845000" />
+      <workItem from="1461861995867" duration="2245000" />
+      <workItem from="1461864312671" duration="181000" />
+      <workItem from="1461894666069" duration="8878000" />
+      <workItem from="1461912838038" duration="14651000" />
+      <workItem from="1461935670145" duration="6291000" />
+      <workItem from="1461996861095" duration="1720000" />
+      <workItem from="1462010865150" duration="1703000" />
+      <workItem from="1462015868242" duration="16081000" />
+      <workItem from="1462032475722" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="351743000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15703703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/lianxi.html" />
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4466">
+          <caret line="203" column="19" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/1.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/lianxi.html" />
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5830">
+          <caret line="265" column="30" selection-start-line="265" selection-start-column="30" selection-end-line="265" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/1.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/lianxi.html" />
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/1.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/lianxi.html" />
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4268">
+          <caret line="194" column="28" selection-start-line="194" selection-start-column="28" selection-end-line="194" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/1.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/lianxi.html" />
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/1.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/1.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/lianxi.html" />
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic/css/ionic.css" />
+    <entry file="file://$PROJECT_DIR$/ionic/js/angular/angular.js" />
+    <entry file="file://$PROJECT_DIR$/ionic/js/ionic.bundle.min.js" />
+    <entry file="file://F:/考试/轮播图终极版.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="204" column="9" selection-start-line="141" selection-start-column="4" selection-end-line="206" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/金鑫/JavaScript_2016_01/讲义/第六周周末/下周需要预习的内容.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/金鑫/JavaScript_2016_01/讲义/ajax/server3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5412">
+          <caret line="246" column="10" selection-start-line="246" selection-start-column="10" selection-end-line="246" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/utils/DOM.js" />
+    <entry file="file://$PROJECT_DIR$/utils/DOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/Drag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/event1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/lianxi.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/3.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/2.html" />
+    <entry file="file://$PROJECT_DIR$/css/m-body1.css" />
+    <entry file="file://$PROJECT_DIR$/css/t-body1.css" />
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/myScroll-s.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/myScroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/jinxinphone/index1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/jinxinphone/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/1.html" />
+    <entry file="file://$PROJECT_DIR$/js/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/m-body.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/t-body.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1100">
+          <caret line="166" column="16" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2134">
+          <caret line="251" column="59" selection-start-line="251" selection-start-column="59" selection-end-line="251" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#span#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bottom-body.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="694" column="30" selection-start-line="694" selection-start-column="30" selection-end-line="694" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

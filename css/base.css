@@ -1,0 +1,57 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body,div,h1,h2,h3,h4,h5,h6,p,ul,li,ol,dl,dd,dt,span,img,input{
+    font-size: 12px;
+    font-family:"STHeiti","STSong", "Microsoft Yahei","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+}
+div,h1,h2,h3,h4,h5,h6,p,span,a{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+input, textarea, keygen, select, button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0 0 0 0;
+    font: 13px Arial;
+}
+input, textarea, keygen, select, button, meter, progress {
+    -webkit-writing-mode: horizontal-tb;
+}
+input,select,textarea,img{
+    vertical-align:middle;
+}
+img{
+    border:0;
+}
+input{
+    outline: none;
+}
+ul,ol,li{
+    list-style-type:none;
+}
+a:link,a:visited{
+text-decoration:none;
+color:#333333;
+}
+a:hover{
+color:#ff6700;
+}
+.clear-f::after{
+    content: "";
+    clear: both;
+    height: 0;
+    line-height: 0;
+    display: block;
+}
+.clear-f{
+    *zoom:1;
+}
